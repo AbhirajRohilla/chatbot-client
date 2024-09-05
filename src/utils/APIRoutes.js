@@ -1,4 +1,4 @@
-const Host = 'http://localhost:8000'
+const Host = 'https://chatbot-server-1lm5.onrender.com'
 export const host = Host;
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
