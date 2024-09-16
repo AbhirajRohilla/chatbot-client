@@ -66,7 +66,7 @@ function Login() {
         <div>
         <img className="w-24" src={Logo} alt="" />
         <Typography variant="h6" className="text-center text-white">
-          SNAPPY
+        TalkNest
         </Typography>
         </div>
         
